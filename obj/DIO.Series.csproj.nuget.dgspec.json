@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Aulas2021\\CursoDIO\\DIO.Series\\DIO.Series.csproj": {}
+    "E:\\Aulas2021\\CursoDIO\\dioseriesvelho\\DIO.Series\\DIO.Series.csproj": {}
   },
   "projects": {
-    "E:\\Aulas2021\\CursoDIO\\DIO.Series\\DIO.Series.csproj": {
+    "E:\\Aulas2021\\CursoDIO\\dioseriesvelho\\DIO.Series\\DIO.Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Aulas2021\\CursoDIO\\DIO.Series\\DIO.Series.csproj",
+        "projectUniqueName": "E:\\Aulas2021\\CursoDIO\\dioseriesvelho\\DIO.Series\\DIO.Series.csproj",
         "projectName": "DIO.Series",
-        "projectPath": "E:\\Aulas2021\\CursoDIO\\DIO.Series\\DIO.Series.csproj",
+        "projectPath": "E:\\Aulas2021\\CursoDIO\\dioseriesvelho\\DIO.Series\\DIO.Series.csproj",
         "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-        "outputPath": "E:\\Aulas2021\\CursoDIO\\DIO.Series\\obj\\",
+        "outputPath": "E:\\Aulas2021\\CursoDIO\\dioseriesvelho\\DIO.Series\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
